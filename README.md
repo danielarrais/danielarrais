@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou Daniel Arrais</h1>
-<h3 align="center">Um desenvolvedor full stack apaixonado pelos códigos que escrevo.</h3>
+<h1 align="left">Olá 👋, sou Daniel Arrais</h1>
+<h3 align="left">Um desenvolvedor full stack apaixonado pelos códigos que escrevo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielarrais" alt="danielarrais" /> </p>
 
