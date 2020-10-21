@@ -10,7 +10,7 @@
 - 💬 Pergunte-me sobre **Rails, Spring Boot, Java e Ruby**
 
 <p align="left">
-<h3 align="left">Você pode me encontrar facilmente pelas redes sociais abaixo:</h3>
+<h3 align="left">Minhas redes sociais:</h3>
 <a href="https://linkedin.com/in/daniel-arrais" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="daniel-arrais" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9537152" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9537152" height="30" width="40" /></a>
 <a href="https://instagram.com/danielarraiscarvalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="danielarraiscarvalho" height="30" width="40" /></a>
