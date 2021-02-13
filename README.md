@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielarrais" alt="danielarrais" /> </p>
 
-- 🌱 Atualmente estou aprendendo **TDD com Ruby On Rails**
+- 🌱 Estou aprofundando meus conhecimento em criação de API Rest com Spring Boot
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [github.com](https://github.com/danielarrais)
 
-- 💬 Pergunte-me sobre **Rails, Spring Boot, Java e Ruby**
+- 💬 Pergunte-me sobre **Java/Spring Boot e Ruby/RobyRails**
 
 <br>
 
