@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielarrais" alt="danielarrais" /> </p>
 
-- 🌱 Estou aprofundando meus conhecimento em criação de API Rest com Spring Boot
+- 🌱 Estou aprofundando meus conhecimentos em criação de API Rest com Spring Boot
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [github.com](https://github.com/danielarrais)
 
