@@ -1,28 +1,18 @@
-<h1 align="left">Olá 👋, sou Daniel Arrais</h1>
-<h3 align="left">Um desenvolvedor full stack apaixonado pelos códigos que escrevo.</h3>
+### Olá, Eu sou o [Daniel Arrais](https://danielarrais.dev/about)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielarrais" alt="danielarrais" /> </p>
+Eu trabalho com **desenvolvimento de software** voltado para web (front e back) a alguns anos e durante esse perído trabalhei com diversas linguagens como o Java, Ruby, JavaScript e também com frameworks desenvolvidos com essas linguagens, como Ruby On Rails, Spring Boot, Angular, React...
 
-- 🌱 Estou aprofundando meus conhecimentos em criação de API Rest com Spring Boot
+### No que estou focando 👨‍💻
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no [github.com](https://github.com/danielarrais)
+Neste momento estou focado em melhorar minhas habilidades com frontend e com testes automatizados, além de está aprofundando meus conhecimento de arquitetura de software. Estou estudando e trabalhando com React.
 
-- 💬 Pergunte-me sobre **Java/Spring Boot e Ruby/RobyRails**
+### Meus posts recentes do  [dev.to](https://dev.to/danielarrais) 😃🧾
+<!-- BLOG-POST-LIST:START -->
+- [Zipar arquivos e pastas utilizando Java](https://dev.to/danielarrais/zipar-arquivos-pastas-usando-java-1emi)
+<!-- BLOG-POST-LIST:END -->
 
-<br>
+### Encontre-me em outro lugar 🌎
 
-<p align="left">
-<h3 align="left">Minhas redes sociais:</h3>
-<a href="https://linkedin.com/in/daniel-arrais" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="daniel-arrais" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9537152" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9537152" height="30" width="40" /></a>
-<a href="https://instagram.com/danielarraiscarvalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="danielarraiscarvalho" height="30" width="40" /></a>
-<a href="https://medium.com/@danielarrais.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@danielarrais.dev" height="30" width="40" /></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-arrais)](https://www.linkedin.com/in/daniel-arrais)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielarraisdev)](https://twitter.com/danielarraisdev)
 
-<br>
-
-<h3 align="left">Stack de linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielarrais&layout=compact" alt="danielarrais" /></p>
-<br>
+**[danielarrais.dev](https://danielarrais.dev/)**
