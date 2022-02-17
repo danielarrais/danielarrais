@@ -1,6 +1,6 @@
 ### Olá, Eu sou o [Daniel Arrais](https://danielarrais.dev/about)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-Eu trabalho com **desenvolvimento de software** voltado para web (front e back) a alguns anos e durante esse perído trabalhei com diversas linguagens como o Java, Ruby, JavaScript e também com frameworks desenvolvidos com essas linguagens, como Ruby On Rails, Spring Boot, Angular, React...
+Eu trabalho com **desenvolvimento de software** voltado para web (front e back) há alguns anos e durante esse perído trabalhei com diversas linguagens como o Java, Ruby, JavaScript e também com frameworks desenvolvidos com essas linguagens, como Ruby On Rails, Spring Boot, Angular, React...
 
 ### No que estou focando 👨‍💻
 
