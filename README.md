@@ -15,4 +15,8 @@ Neste momento estou focado em melhorar minhas habilidades com frontend e com tes
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-arrais)](https://www.linkedin.com/in/daniel-arrais)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielarraisdev)](https://twitter.com/danielarraisdev)
 
+### Estudos/Cursos recentes
+
+[[Ignite ReactJS](https://www.rocketseat.com.br/ignite) - [Projetos](https://github.com/stars/danielarrais/lists/ignite-reactjs)]
+
 **[danielarrais.dev](https://danielarrais.dev/)**
