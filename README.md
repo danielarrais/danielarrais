@@ -1,22 +1,12 @@
 ### Olá, Eu sou o [Daniel Arrais](https://danielarrais.dev/about)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-Eu trabalho com **desenvolvimento de software** voltado para web (front e back) há alguns anos e durante esse perído trabalhei com diversas linguagens como o Java, Ruby, JavaScript e também com frameworks desenvolvidos com essas linguagens, como Ruby On Rails, Spring Boot, Angular, React...
+Com quase seis anos de experiência em desenvolvimento web, tenho uma sólida base em tecnologias como Java, Spring Boot, Python, RabbitMQ, Docker, Redis e Oracle db. Minha experiência recente tem sido focada principalmente no desenvolvimento de Microsserviços, trabalhando com APIs e integrações.
 
-### No que estou focando 👨‍💻
+Além do meu conhecimento em backend, também tenho habilidades em frontend, incluindo HTML 5, CSS3, React.js e Angular. Atualmente, estou aprimorando meus conhecimentos em AWS e Terraform com o objetivo de obter minha primeira certificação AWS. Além de AWS estou estudando Inglês.
 
-Neste momento estou focado em melhorar minhas habilidades com frontend e com testes automatizados, além de está aprofundando meus conhecimento de arquitetura de software. Estou estudando e trabalhando com React.
-
-### Meus posts recentes do  [dev.to](https://dev.to/danielarrais) 😃🧾
-<!-- BLOG-POST-LIST:START -->
-- [Zipar arquivos e pastas utilizando Java](https://dev.to/danielarrais/zipar-arquivos-pastas-usando-java-1emi)
-<!-- BLOG-POST-LIST:END -->
+Acredito firmemente no aprendizado contínuo e na partilha de conhecimentos. Por isso, gosto de trabalhar em equipes colaborativas e engajadas, onde todos se apoiam mutuamente e estou sempre aberto a desafios, a aprender novas tecnologias e compartilhar meu conhecimento.
 
 ### Encontre-me em outro lugar 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-arrais)](https://www.linkedin.com/in/daniel-arrais)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielarraisdev)](https://twitter.com/danielarraisdev)
-
-### Estudos/Cursos recentes
-
-[[Ignite ReactJS](https://www.rocketseat.com.br/ignite) - [Projetos](https://github.com/stars/danielarrais/lists/ignite-reactjs)]
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-arrais)](https://www.linkedin.com/in/daniel-arrais)
 **[danielarrais.dev](https://danielarrais.dev/)**
