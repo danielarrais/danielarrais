@@ -8,5 +8,6 @@ Acredito firmemente no aprendizado contínuo e na partilha de conhecimentos. Por
 
 ### Encontre-me em outro lugar 🌎
 
-**[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=h)**
+**[Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=h)**
+
 **[danielarrais.dev](https://danielarrais.dev/)**
