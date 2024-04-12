@@ -8,9 +8,8 @@ Although i’m mentioned only backend technologies also i’he knowledge on HTML
 
 ### Contact me 🌎
 
-**[Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=h)**
-
-**[danielarrais.dev](https://danielarrais.dev/)**
+* **[Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=h)**
+* **[danielarrais.dev](https://danielarrais.dev/)**
 
 ### My last articles
 
