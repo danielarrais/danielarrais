@@ -16,3 +16,4 @@ Although i’m mentioned only backend technologies also i’he knowledge on HTML
 
 * **[How to create tests for Bigquery integration with tests containers and Spring Boot 3](https://medium.com/@danielarrais.dev/how-to-create-tests-for-bigquery-integration-with-tests-containers-and-spring-boot-3-685afadf5496)**
 * **[How to create and initialize tables in a local DynamoDB with docker compose](https://medium.com/@danielarrais.dev/how-to-create-and-initialize-tables-in-a-local-dynamodb-with-docker-compose-notion-af22c3b603cb)**
+* **[Criando componentes do Rabbitmq de forma dinâmica no Spring Boot](https://medium.com/@danielarrais.dev/criando-componentes-do-rabbitmq-de-forma-din%C3%A2mica-no-spring-boot-592590ed1449)**
