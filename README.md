@@ -1,13 +1,18 @@
-### Olá, Eu sou o [Daniel Arrais](https://danielarrais.dev/about)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+### Hi, i'm [Daniel Arrais](https://danielarrais.dev/about)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-Com quase seis anos de experiência em desenvolvimento web, tenho uma sólida base em tecnologias como Java, Spring Boot, Python, RabbitMQ, Docker, Redis e Oracle db. Minha experiência recente tem sido focada principalmente no desenvolvimento de Microsserviços, trabalhando com APIs e integrações e tualmente, estou aprimorando meus conhecimentos em AWS e Terraform com o objetivo de obter minha primeira certificação AWS.
+With aproximatitly six years of experience with web development, having actuated in many projects, i’ve a base solid in technologies as Java, Spring Boot, Python, RabbitMQ, Docker, Redis and Oracle DB. Currently i’m work developmenting microservices, APIs and integrations and i’m improving my cloud knowledge througth by studyng of AWS and Terraform.
 
-Além do meu conhecimento em backend, também tenho habilidades em frontend, incluindo HTML 5, CSS3, React.js e Angular.
+I highly believe on continous learn and on knowledge sharing and this reason by I like work in collaboratives and integrated teams, where everyone supports each other. Futhermore i’m every opened for challenges, learn new technologies and sharing my expertises.
 
-Acredito firmemente no aprendizado contínuo e na partilha de conhecimentos. Por isso, gosto de trabalhar em equipes colaborativas e engajadas, onde todos se apoiam mutuamente e estou sempre aberto a desafios, a aprender novas tecnologias e compartilhar meu conhecimento.
+Although i’m mentioned only backend technologies also i’he knowledge on HTML 5, CSS3, Javascript, React.js and Angular.
 
-### Encontre-me em outro lugar 🌎
+### Contact me 🌎
 
 **[Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=h)**
 
 **[danielarrais.dev](https://danielarrais.dev/)**
+
+### My articles
+
+**[How to create tests for Bigquery integration with tests containers and Spring Boot 3](https://medium.com/@danielarrais.dev/how-to-create-tests-for-bigquery-integration-with-tests-containers-and-spring-boot-3-685afadf5496)**
+**[How to create and initialize tables in a local DynamoDB with docker compose](https://medium.com/@danielarrais.dev/how-to-create-and-initialize-tables-in-a-local-dynamodb-with-docker-compose-notion-af22c3b603cb)**
