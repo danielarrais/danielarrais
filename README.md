@@ -1,4 +1,4 @@
-### Hi, i'm [Daniel Arrais](https://danielarrais.dev/about)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+### Hi, i'm [Daniel Arrais](https://danielarrais.dev/about)!
 
 With aproximatitly six years of experience with web development, having actuated in many projects, i’ve a base solid in technologies as Java, Spring Boot, Python, RabbitMQ, Docker, Redis and Oracle DB. Currently i’m work developmenting microservices, APIs and integrations and i’m improving my cloud knowledge througth by studyng of AWS and Terraform.
 
@@ -6,7 +6,7 @@ I highly believe on continous learn and on knowledge sharing and this reason by 
 
 Although i’m mentioned only backend technologies also i’he knowledge on HTML 5, CSS3, Javascript, React.js and Angular.
 
-### Contact me 🌎
+### Contact me 
 
 * **[Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=h)**
 * **[danielarrais.dev](https://danielarrais.dev/)**
